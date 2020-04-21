@@ -3,6 +3,11 @@ package advanced_java_8.functional_interfaces;
 import java.util.Comparator;
 import java.util.function.BinaryOperator;
 
+/**
+ *
+ * Binary Operators Takes two inputs and returns one output all of the same type
+ */
+
 public class BinaryOperatorExample {
 
     static Comparator<Integer> comparator = (a, b) -> a.compareTo(b);

@@ -5,6 +5,8 @@ import java.util.function.Predicate;
 public class PredicateExample {
     //Good for code re-use ability
 
+    //Takes in an input and returns true false
+
     static Predicate<Integer> p = (i) -> {
         return (i % 2 == 0);
     };
