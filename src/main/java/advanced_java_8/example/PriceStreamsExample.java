@@ -1,10 +1,6 @@
 package advanced_java_8.example;
 
-import advanced_java_8.functional_interfaces.data.Student;
-import advanced_java_8.functional_interfaces.data.StudentDataBase;
-
 import java.util.Comparator;
-import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 import java.util.function.BinaryOperator;

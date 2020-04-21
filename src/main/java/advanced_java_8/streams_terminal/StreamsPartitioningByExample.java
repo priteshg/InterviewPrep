@@ -1,7 +1,7 @@
 package advanced_java_8.streams_terminal;
 
-import advanced_java_8.functional_interfaces.data.Student;
-import advanced_java_8.functional_interfaces.data.StudentDataBase;
+import advanced_java_8.data.Student;
+import advanced_java_8.data.StudentDataBase;
 
 import java.util.List;
 import java.util.Map;

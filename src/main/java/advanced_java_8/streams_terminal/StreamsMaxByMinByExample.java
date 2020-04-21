@@ -1,11 +1,10 @@
 package advanced_java_8.streams_terminal;
 
-import advanced_java_8.functional_interfaces.data.Student;
-import advanced_java_8.functional_interfaces.data.StudentDataBase;
+import advanced_java_8.data.Student;
+import advanced_java_8.data.StudentDataBase;
 
 import java.util.Comparator;
 import java.util.Optional;
-import java.util.stream.Collectors;
 
 import static java.lang.String.format;
 import static java.util.stream.Collectors.maxBy;
